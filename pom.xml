@@ -107,7 +107,7 @@
         <directory>src/main/resources</directory>
       </resource>
       <resource>
-        <directory>src/main/resources-${env}</directory>
+        <directory>src/main/resources-prod</directory>
       </resource>
     </resources>
 		<plugins>
